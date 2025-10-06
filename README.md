@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @paulomouraj
 - 👀 I’m interested in Software Engineering, Computer Vision, Natural Language Processing and Deep Learning
-- 💞️ I’m looking to collaborate on Open Source projects on Agentic AI
 - 📫 How to reach me: paulo.demourajenior@telecom-paris.fr
 
 <!---
